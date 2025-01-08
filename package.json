@@ -1,0 +1,13 @@
+{
+  "name": "environment",
+  "version": "1.0.0",
+  "description": "Set up the project environment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jwt-decode": "^3.1.2"
+  }
+}
